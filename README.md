@@ -11,11 +11,12 @@ Contributes quite a bit to open source projects
 [<img align="left" alt="iceman | twitter" width="50px" src="https://simpleicons.org/icons/twitter.svg" />][twitter]
 [<img align="left" alt="iceman | youtube" width="50px" src="https://simpleicons.org/icons/youtube.svg" />][youtube]
 [<img align="left" alt="iceman | Patreon" width="50px" src="https://simpleicons.org/icons/patreon.svg" />][patreon]
-[<img align="left" alt="iceman | buy me a coffe" width="50px" src="https://simpleicons.org/icons/buymeacoffe.svg" />][buymeacoffe]
+[<img align="left" alt="iceman | buy me a coffe" width="50px" src="https://simpleicons.org/icons/buymeacoffee.svg" />][buymeacoffee]
 
 
 <br />
 
+## Open Source Contributions
 
 [![Iceman's GitHub stats](https://github-readme-stats.vercel.app/api?username=iceman1001&show_icons=true&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -34,4 +35,4 @@ Contributes quite a bit to open source projects
 [twitter]: https://twitter.com/herrmann1001
 [youtube]: https://www.youtube.com/c/ChrisHerrmann1001
 [patreon]: https://www.patreon.com/iceman1001
-[buymeacoffe]: https://www.buymeacoffee.com/iceman
+[buymeacoffee]: https://www.buymeacoffee.com/iceman
