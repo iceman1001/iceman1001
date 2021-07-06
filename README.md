@@ -1,4 +1,4 @@
-## Hey there,  I'm Iceman [iceman][website]
+## Hey there,  I'm [iceman][website]
 
 Proxmark evangalist,  RFID Hacking community,
 
@@ -7,9 +7,10 @@ Contributes quite a bit to open source projects
 ### Connect with me
 [<img align="left" alt="iceman | twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="iceman | youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+
 ---
 
-[![Iceman's GitHub stats](https://github-readme-stats.vercel.app/api?username=iceman1001)](https://github.com/anuraghazra/github-readme-stats)
+[![Iceman's GitHub stats](https://github-readme-stats.vercel.app/api?username=iceman1001&show_icons=true&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
 
 
 # Latest YouTube Videos
