@@ -1,12 +1,18 @@
-## Hey there,  I'm [iceman][website]
+## Hey there,  I'm Christian - aka [Iceman][website]
 
-Proxmark evangalist,  RFID Hacking community,
+- Proxmark evangalist
+- RFID Hacking community 
+- RFID / NFC 
 
 Contributes quite a bit to open source projects
 
 ### Connect with me
-[<img align="left" alt="iceman | twitter" width="22px" src="https://simpleicons.org/icons/twitter.svg" />][twitter]
-[<img align="left" alt="iceman | youtube" width="22px" src="https://simpleicons.org/icons/youtube.svg" />][youtube]
+
+[<img align="left" alt="iceman | twitter" width="50px" src="https://simpleicons.org/icons/twitter.svg" />][twitter]
+[<img align="left" alt="iceman | youtube" width="50px" src="https://simpleicons.org/icons/youtube.svg" />][youtube]
+[<img align="left" alt="iceman | Patreon" width="50px" src="https://simpleicons.org/icons/patreon.svg" />][patreon]
+[<img align="left" alt="iceman | buy me a coffe" width="50px" src="https://simpleicons.org/icons/buymeacoffe.svg" />][buymeacoffe]
+
 
 <br />
 
@@ -15,7 +21,7 @@ Contributes quite a bit to open source projects
 
 <br />
 
-# Latest YouTube Videos
+### Latest YouTube Videos
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
 
