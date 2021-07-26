@@ -22,7 +22,7 @@ Contributes quite a bit to open source projects
 
 ## Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Proxmark Low Frequency Sniff part 1](https://www.youtube.com/watch?v=GLxxSjRVOpA)
+- [Proxmark Low Frequency Sniffing Part 1](https://www.youtube.com/watch?v=GLxxSjRVOpA)
 - [Proxmark - RFID IKEA rothult lock](https://www.youtube.com/watch?v=tcBZ4KbQ2uQ)
 - [Proxmark - Playing with low frequency Animal tag and a genuine handheld  Verichip reader](https://www.youtube.com/watch?v=iQhh1V6UaAQ)
 - [Proxmark - First play the with Proxmark3 RDV4  Bluetooth Battery Addon called Blueshark](https://www.youtube.com/watch?v=TksMrf1vP5E)
