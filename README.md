@@ -22,11 +22,11 @@ Contributes quite a bit to open source projects
 
 ## Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Proxmark - learn how the DATA PLOT window works](https://www.youtube.com/watch?v=3GWEgmtBw6s)
 - [Proxmark Low Frequency Sniffing Part 3](https://www.youtube.com/watch?v=bN5Wp8FyG2M)
 - [Proxmark Low Frequency Sniffing Part 2](https://www.youtube.com/watch?v=Qm9qTRnmFEw)
 - [Proxmark Low Frequency Sniffing Part 1](https://www.youtube.com/watch?v=GLxxSjRVOpA)
 - [Proxmark - RFID IKEA rothult lock](https://www.youtube.com/watch?v=tcBZ4KbQ2uQ)
-- [Proxmark - Playing with low frequency Animal tag and a genuine handheld  Verichip reader](https://www.youtube.com/watch?v=iQhh1V6UaAQ)
 <!-- YOUTUBE:END -->
 
 [website]: https://www.icedev.se
