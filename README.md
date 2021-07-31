@@ -1,4 +1,4 @@
-## Hey there,  I'm [Iceman][website]
+## I'm [Iceman][website]
 
 - Proxmark evangalist
 - RFID Hacking community 
