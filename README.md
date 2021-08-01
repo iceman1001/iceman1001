@@ -22,7 +22,7 @@ Contributes quite a bit to open source projects
 
 ## Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Proxmark - Some more details about DATA PLOT window](https://www.youtube.com/watch?v=7L-8MkSym8c)
+- [Proxmark - PLOT window revisited](https://www.youtube.com/watch?v=7L-8MkSym8c)
 - [Proxmark - learn how the DATA PLOT window work](https://www.youtube.com/watch?v=3GWEgmtBw6s)
 - [Proxmark Low Frequency Sniffing Part 3](https://www.youtube.com/watch?v=bN5Wp8FyG2M)
 - [Proxmark Low Frequency Sniffing Part 2](https://www.youtube.com/watch?v=Qm9qTRnmFEw)
