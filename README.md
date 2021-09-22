@@ -11,7 +11,7 @@ Contributes quite a bit to open source projects
 ## Connect with me
 
 [<img align="left" alt="iceman | twitter" width="50px" src="https://upload.wikimedia.org/wikipedia/fr/c/c8/Twitter_Bird.svg" />][twitter]
-[<img align="left" alt="iceman | youtube" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" />][youtube]
+[<img align="left" alt="iceman | youtube" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" />][youtube]
 [<img align="left" alt="iceman | Patreon" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Patreon_logomark.svg" />][patreon]
 [<img align="left" alt="iceman | buy me a coffe" width="150px" src="http://www.icesql.se/i/bmc-button.svg" />][buymeacoffee]
 
