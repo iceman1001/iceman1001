@@ -10,7 +10,7 @@ Contributes quite a bit to open source projects
 
 ## Connect with me
 
-[<img align="left" alt="iceman | twitter" width="50px" src="https://simpleicons.org/icons/twitter.svg" />][twitter]
+[<img align="left" alt="iceman | twitter" width="50px" src="https://upload.wikimedia.org/wikipedia/fr/c/c8/Twitter_Bird.svg" />][twitter]
 [<img align="left" alt="iceman | youtube" width="50px" src="https://simpleicons.org/icons/youtube.svg" />][youtube]
 [<img align="left" alt="iceman | Patreon" width="50px" src="https://simpleicons.org/icons/patreon.svg" />][patreon]
 [<img align="left" alt="iceman | buy me a coffe" width="50px" src="https://simpleicons.org/icons/buymeacoffee.svg" />][buymeacoffee]
