@@ -13,8 +13,7 @@ Contributes quite a bit to open source projects
 [<img align="left" alt="iceman | twitter" width="50px" src="https://upload.wikimedia.org/wikipedia/fr/c/c8/Twitter_Bird.svg" />][twitter]
 [<img align="left" alt="iceman | youtube" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" />][youtube]
 [<img align="left" alt="iceman | Patreon" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Patreon_logomark.svg" />][patreon]
-
-[<img align="left" alt="iceman | buy me a coffe" width="50px" src="https://simpleicons.org/icons/buymeacoffee.svg" />][buymeacoffee]
+[<img align="left" alt="iceman | buy me a coffe" width="200px" src="http://www.icesql.se/i/bmc-button.svg" />][buymeacoffee]
 
 <br /><br /><br />
 
@@ -30,7 +29,7 @@ Contributes quite a bit to open source projects
 - [Proxmark Low Frequency Sniffing Part 1](https://www.youtube.com/watch?v=GLxxSjRVOpA)
 <!-- YOUTUBE:END -->
 
-[website]: https://www.icedev.se
+[website]: http://www.icedev.se
 [twitter]: https://twitter.com/herrmann1001
 [youtube]: https://www.youtube.com/c/ChrisHerrmann1001
 [patreon]: https://www.patreon.com/iceman1001
