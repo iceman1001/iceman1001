@@ -1,6 +1,6 @@
 ## I'm [Iceman][website]
 
-- Proxmark evangalist
+- Proxmark evangelist
 - RFID Hacking community 
 - RFID / NFC 
 
