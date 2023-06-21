@@ -22,11 +22,11 @@ Contributes quite a bit to open source projects
 
 ## Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Proxmark3 Deep Dive: Navigating the Kiev Metro Card](https://www.youtube.com/watch?v=JCZt0N-bPUc)
+- [Unboxing Cyberpunk Surprise : New Comic Book Reveal! 🎁🤖](https://www.youtube.com/watch?v=kekyZq2l394)
 - [Proxmark - PLOT window revisited](https://www.youtube.com/watch?v=7L-8MkSym8c)
-- [Proxmark - learn how the DATA PLOT window work](https://www.youtube.com/watch?v=3GWEgmtBw6s)
-- [Proxmark Low Frequency Sniffing Part 3](https://www.youtube.com/watch?v=bN5Wp8FyG2M)
-- [Proxmark Low Frequency Sniffing Part 2](https://www.youtube.com/watch?v=Qm9qTRnmFEw)
-- [Proxmark Low Frequency Sniffing Part 1](https://www.youtube.com/watch?v=GLxxSjRVOpA)
+- [Learn how to use the data plot window with your proxmark3](https://www.youtube.com/watch?v=3GWEgmtBw6s)
+- [How to low frequence sniff vs Hitag2 using your proxmark3](https://www.youtube.com/watch?v=bN5Wp8FyG2M)
 <!-- YOUTUBE:END -->
 
 [website]: http://www.icedev.se
