@@ -1,8 +1,7 @@
 ## I'm [Iceman][website]
 
-- Proxmark3 aficionado
+- Proxmark3 evangelist
 - RFID Hacking community
-- RFID / NFC / Proxmark3 / Chameleon Mini
 - Uses four spaces instead of `<tab>`
 
 Contributes quite a bit to open source projects
