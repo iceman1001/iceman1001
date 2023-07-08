@@ -21,11 +21,11 @@ Contributes quite a bit to open source projects
 
 ## Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Chameleon Ultra: A Step-by-Step Guide to Downloading, Compiling, and Running the CLI](https://www.youtube.com/watch?v=VGpAeitNXH0)
 - [Chameleon Ultra Unboxed: First Impressions and Comparative Review with Chameleon Tiny](https://www.youtube.com/watch?v=e1ES8ND2Qbs)
 - [Proxmark3 Tutorial: Sniffing MIFARE DESFire Cards](https://www.youtube.com/watch?v=vBkjvBFtog4)
 - [Navigating Membership Cards with Proxmark3: A Step-by-Step Guide](https://www.youtube.com/watch?v=rpdpYnOwyw4)
 - [Proxmark3 Deep Dive: Navigating the Kiev Metro Card](https://www.youtube.com/watch?v=JCZt0N-bPUc)
-- [Unboxing Cyberpunk Surprise : New Comic Book Reveal! 🎁🤖](https://www.youtube.com/watch?v=kekyZq2l394)
 <!-- YOUTUBE:END -->
 
 [website]: http://www.icedev.se
