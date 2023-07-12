@@ -21,11 +21,11 @@ Contributes quite a bit to open source projects
 
 ## Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Proxmark3 - Hardnested Key Recovery: Disk Space vs. Time Optimization for High-Speed Systems](https://www.youtube.com/watch?v=k3qg_Vj7fAk)
 - [Chameleon Ultra: Downloading and Running the Community-Created GUI.](https://www.youtube.com/watch?v=rHH7iqbX3nY)
 - [Chameleon Ultra: A Step-by-Step Guide to Downloading, Compiling, and Running the CLI](https://www.youtube.com/watch?v=VGpAeitNXH0)
 - [Chameleon Ultra Unboxed: First Impressions and Comparative Review with Chameleon Tiny](https://www.youtube.com/watch?v=e1ES8ND2Qbs)
 - [Proxmark3 Tutorial: Sniffing MIFARE DESFire Cards](https://www.youtube.com/watch?v=vBkjvBFtog4)
-- [Navigating Membership Cards with Proxmark3: A Step-by-Step Guide](https://www.youtube.com/watch?v=rpdpYnOwyw4)
 <!-- YOUTUBE:END -->
 
 [website]: http://www.icedev.se
