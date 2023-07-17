@@ -21,11 +21,11 @@ Contributes quite a bit to open source projects
 
 ## Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Troubleshooting Your Proxmark3: Handling Flashing Issues.](https://www.youtube.com/watch?v=i9vnHZ_kFBk)
 - [Proxmark3 Hardnested Command Update: Your Guide to the Latest Changes](https://www.youtube.com/watch?v=fPi8PNQgd2E)
 - [Modifying Your Proxmark3 RDV4: A Step-by-Step Guide to Fitting the SIM Card Extension Cable](https://www.youtube.com/watch?v=qfI4Q1yk3Bc)
 - [Proxmark3 Bootloader Mode: Entering, Flashing, and Verifying.](https://www.youtube.com/watch?v=qGQarwL5KrU)
 - [Proxmark3 - Hardnested Key Recovery: Disk Space vs. Time Optimization for High-Speed Systems](https://www.youtube.com/watch?v=k3qg_Vj7fAk)
-- [Chameleon Ultra: Downloading and Running the Community-Created GUI.](https://www.youtube.com/watch?v=rHH7iqbX3nY)
 <!-- YOUTUBE:END -->
 
 [website]: http://www.icedev.se
