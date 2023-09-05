@@ -21,11 +21,11 @@ Contributes quite a bit to open source projects
 
 ## Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Happy Birthday Elkentaro!](https://www.youtube.com/watch?v=cbCMfdvZ_Sg)
 - [Unlocking Secrets with Flipper Zero: From Firmware to reading iCLASS SE/SEOS /DESfire](https://www.youtube.com/watch?v=YbCfg6BQpjs)
 - [RFID Hacking Latest:  DEFCON Unveiled, an Inside Look at RFID Hacking and More!](https://www.youtube.com/watch?v=aoyBvc21EIw)
 - [RFID Hacking Latest: DEFCON, Vulnerabilities, and Chameleon Drama!](https://www.youtube.com/watch?v=NBNk145svV4)
 - [Reviving Your Old Proxmark3: Firmware Compilation &amp; Flashing with JTAG and OpenOCD](https://www.youtube.com/watch?v=LCxFV2DrWng)
-- [Troubleshooting Your Proxmark3: Handling Flashing Issues.](https://www.youtube.com/watch?v=i9vnHZ_kFBk)
 <!-- YOUTUBE:END -->
 
 [website]: http://www.icedev.se
