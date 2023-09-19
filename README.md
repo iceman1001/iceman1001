@@ -21,11 +21,11 @@ Contributes quite a bit to open source projects
 
 ## Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [RFID Hacking Latest:  Releases, Rumors &amp; Deep Dives | DEFCON, Proxmark3, Flipper Zero &amp; More!](https://www.youtube.com/watch?v=TMaTvMFyCXA)
 - [Unveiling Key Recovery: Chameleon Ultra GUI Deep Dive](https://www.youtube.com/watch?v=Pgd6g9dyp9E)
 - [Revisiting the Chameleon Ultra GUI Project: Latest Changes Explored!](https://www.youtube.com/watch?v=YqE8wyVSse4)
 - [Happy Birthday Elkentaro!](https://www.youtube.com/watch?v=cbCMfdvZ_Sg)
 - [Unlocking Secrets with Flipper Zero: From Firmware to reading iCLASS SE/SEOS /DESfire](https://www.youtube.com/watch?v=YbCfg6BQpjs)
-- [RFID Hacking Latest:  DEFCON Unveiled, an Inside Look at RFID Hacking and More!](https://www.youtube.com/watch?v=aoyBvc21EIw)
 <!-- YOUTUBE:END -->
 
 [website]: http://www.icedev.se
