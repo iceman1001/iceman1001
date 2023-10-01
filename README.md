@@ -32,3 +32,5 @@ Contributes quite a bit to open source projects
 [twitter]: https://twitter.com/herrmann1001
 [youtube]: https://www.youtube.com/c/ChrisHerrmann1001
 [patreon]: https://www.patreon.com/iceman1001
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=iceman1001.iceman1001)
