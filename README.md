@@ -21,11 +21,11 @@ Contributes quite a bit to open source projects
 
 ## Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Key Recovery for Elite Systems](https://www.youtube.com/watch?v=Arqf2OryaCQ)
 - [The SAM Saga with Proxmark3 RDV4](https://www.youtube.com/watch?v=38a2YLOqyV0)
 - [Proxmark3 Client: From C to Python, Lua, and Beyond!](https://www.youtube.com/watch?v=05v1A4pzZWQ)
 - [RFID Hacking Latest:  Releases, Rumors &amp; Deep Dives | DEFCON, Proxmark3, Flipper Zero &amp; More!](https://www.youtube.com/watch?v=TMaTvMFyCXA)
 - [Unveiling Key Recovery: Chameleon Ultra GUI Deep Dive](https://www.youtube.com/watch?v=Pgd6g9dyp9E)
-- [Revisiting the Chameleon Ultra GUI Project: Latest Changes Explored!](https://www.youtube.com/watch?v=YqE8wyVSse4)
 <!-- YOUTUBE:END -->
 
 [website]: http://www.icedev.se
