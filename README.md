@@ -21,11 +21,11 @@ Contributes quite a bit to open source projects
 
 ## Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [RFID Challenge: How Much Do You Really Know?  Q5  #technology #rfid](https://www.youtube.com/watch?v=IT2bITLA_UU)
 - [RFID Challenge: How Much Do You Really Know?  Q3  #technology #rfid](https://www.youtube.com/watch?v=4EaokQSSkV4)
 - [Access Control Unveiled: EvilDaemond on CSN Mode](https://www.youtube.com/watch?v=zbPIYLcBEck)
 - [RFID Challenge: How Much Do You Really Know?  Q2  #technology #rfid](https://www.youtube.com/watch?v=0rAgLt_HclA)
 - [RFID Challenge: How Much Do You Really Know?  Q1  #technology #rfid](https://www.youtube.com/watch?v=rBJxDMp7KS8)
-- [Key Recovery for Elite Systems](https://www.youtube.com/watch?v=Arqf2OryaCQ)
 <!-- YOUTUBE:END -->
 
 [website]: http://www.icedev.se
