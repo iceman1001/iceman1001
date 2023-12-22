@@ -21,11 +21,11 @@ Contributes quite a bit to open source projects
 
 ## Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Iceman Christmas Code session](https://www.youtube.com/watch?v=_86wwJGArsY)
 - [Magnetic power](https://www.youtube.com/watch?v=-vRbj9QbtWU)
 - [RFID Hacking Update: Major Breaches and Developments](https://www.youtube.com/watch?v=57pd9ubdfxs)
 - [RFID Challenge: How Much Do You Really Know?  Q6  #technology #rfid](https://www.youtube.com/watch?v=vfx1ksJdloE)
 - [RFID Challenge: How Much Do You Really Know?  Q5  #technology #rfid](https://www.youtube.com/watch?v=IT2bITLA_UU)
-- [RFID Challenge: How Much Do You Really Know?  Q3  #technology #rfid](https://www.youtube.com/watch?v=4EaokQSSkV4)
 <!-- YOUTUBE:END -->
 
 [website]: http://www.icedev.se
