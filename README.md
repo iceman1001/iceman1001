@@ -21,11 +21,11 @@ Contributes quite a bit to open source projects
 
 ## Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Iceman Last Night of the Year Code session](https://www.youtube.com/watch?v=J_Kdxe92vOc)
 - [Chameleon Ultra Update: Six Months Later](https://www.youtube.com/watch?v=DgZvkBKfcO8)
 - [Iceman Christmas Code session](https://www.youtube.com/watch?v=_86wwJGArsY)
 - [Magnetic power](https://www.youtube.com/watch?v=-vRbj9QbtWU)
 - [RFID Hacking Update: Major Breaches and Developments](https://www.youtube.com/watch?v=57pd9ubdfxs)
-- [RFID Challenge: How Much Do You Really Know?  Q6  #technology #rfid](https://www.youtube.com/watch?v=vfx1ksJdloE)
 <!-- YOUTUBE:END -->
 
 [website]: http://www.icedev.se
