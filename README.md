@@ -18,7 +18,6 @@ Contributes quite a bit to open source projects
 
 [![Iceman's GitHub stats](https://github-readme-stats.vercel.app/api?username=iceman1001&show_icons=true&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Iceman Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCwukH1pDTWsv2DuT18dE1RA)](https://www.youtube.com/@iceman1001/)
 
 ## Latest YouTube Videos
 <!-- YOUTUBE:START -->
@@ -36,3 +35,4 @@ Contributes quite a bit to open source projects
 
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=iceman1001.iceman1001)
+[![Iceman Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCwukH1pDTWsv2DuT18dE1RA)](https://www.youtube.com/@iceman1001/)
