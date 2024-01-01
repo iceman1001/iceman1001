@@ -21,11 +21,11 @@ Contributes quite a bit to open source projects
 
 ## Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Proxmark3 RDV4 Update: Testing the New Automatic Reconnect Feature](https://www.youtube.com/watch?v=fyxnXoNRRdU)
 - [Iceman Last Night of the Year Code session](https://www.youtube.com/watch?v=J_Kdxe92vOc)
 - [Chameleon Ultra Update: Six Months Later](https://www.youtube.com/watch?v=DgZvkBKfcO8)
 - [Iceman Christmas Code session](https://www.youtube.com/watch?v=_86wwJGArsY)
 - [Magnetic power](https://www.youtube.com/watch?v=-vRbj9QbtWU)
-- [RFID Hacking Update: Major Breaches and Developments](https://www.youtube.com/watch?v=57pd9ubdfxs)
 <!-- YOUTUBE:END -->
 
 [website]: http://www.icedev.se
