@@ -21,11 +21,11 @@ Contributes quite a bit to open source projects
 
 ## Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Dual Connection Magic: Proxmark3 with UDP Port Forwarding &amp; Bluetooth](https://www.youtube.com/watch?v=ivKufk74kv4)
 - [Proxmark3 RDV4 Update: Testing the New Automatic Reconnect Feature](https://www.youtube.com/watch?v=fyxnXoNRRdU)
 - [Iceman Last Night of the Year Code session](https://www.youtube.com/watch?v=J_Kdxe92vOc)
 - [Chameleon Ultra Update: Six Months Later](https://www.youtube.com/watch?v=DgZvkBKfcO8)
 - [Iceman Christmas Code session](https://www.youtube.com/watch?v=_86wwJGArsY)
-- [Magnetic power](https://www.youtube.com/watch?v=-vRbj9QbtWU)
 <!-- YOUTUBE:END -->
 
 [website]: http://www.icedev.se
