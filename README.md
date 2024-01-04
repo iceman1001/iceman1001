@@ -21,11 +21,11 @@ Contributes quite a bit to open source projects
 
 ## Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [RFID Hacking Latest:   Proxmark3 &#39;Steamboat Willie&#39;, MCT App Update &amp; SEOS Insights](https://www.youtube.com/watch?v=ZguDg2ZRjTc)
 - [Networking the Proxmark3: Virtual Serial Ports and Internet Connectivity](https://www.youtube.com/watch?v=I9-FQTAMULQ)
 - [Dual Connection Magic: Proxmark3 with UDP Port Forwarding &amp; Bluetooth](https://www.youtube.com/watch?v=ivKufk74kv4)
 - [Proxmark3 RDV4 Update: Testing the New Automatic Reconnect Feature](https://www.youtube.com/watch?v=fyxnXoNRRdU)
 - [Iceman Last Night of the Year Code session](https://www.youtube.com/watch?v=J_Kdxe92vOc)
-- [Chameleon Ultra Update: Six Months Later](https://www.youtube.com/watch?v=DgZvkBKfcO8)
 <!-- YOUTUBE:END -->
 
 [website]: http://www.icedev.se
