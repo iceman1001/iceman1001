@@ -21,11 +21,11 @@ Contributes quite a bit to open source projects
 
 ## Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [HID Reader Manager Update: What You Need to Know](https://www.youtube.com/watch?v=xkpJ9Dz6QnI)
 - [Code session with Iceman - Hunting down embedded bugs!](https://www.youtube.com/watch?v=9CN0qOCIwNg)
 - [A new simulator.    Curious on how to research French Transport Ticket system card?](https://www.youtube.com/watch?v=pQcF9c4MlH0)
 - [RFID Hacking Latest:   Proxmark3 &#39;Steamboat Willie&#39;, MCT App Update &amp; SEOS Insights](https://www.youtube.com/watch?v=ZguDg2ZRjTc)
 - [Networking the Proxmark3: Virtual Serial Ports and Internet Connectivity](https://www.youtube.com/watch?v=I9-FQTAMULQ)
-- [Dual Connection Magic: Proxmark3 with UDP Port Forwarding &amp; Bluetooth](https://www.youtube.com/watch?v=ivKufk74kv4)
 <!-- YOUTUBE:END -->
 
 [website]: http://www.icedev.se
