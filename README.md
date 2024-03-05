@@ -21,11 +21,11 @@ Contributes quite a bit to open source projects
 
 ## Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Easy Blueshark Module Swap on Proxmark3 RDV4: A Step-by-Step Guide](https://www.youtube.com/watch?v=ofEUMZ0fa1c)
 - [Reviving Android Phone with LineageOS 21 / Termux:  Proxmark3 Connection Success!](https://www.youtube.com/watch?v=PqnO2S98qDA)
 - [Custom Coding for Super Nintendo Power Up Band: An RFID Odyssey](https://www.youtube.com/watch?v=IW4AhQDrBPo)
 - [HID Reader Manager Update: What You Need to Know](https://www.youtube.com/watch?v=xkpJ9Dz6QnI)
 - [Code session with Iceman - Hunting down embedded bugs!](https://www.youtube.com/watch?v=9CN0qOCIwNg)
-- [A new simulator.    Curious on how to research French Transport Ticket system card?](https://www.youtube.com/watch?v=pQcF9c4MlH0)
 <!-- YOUTUBE:END -->
 
 [website]: http://www.icedev.se
