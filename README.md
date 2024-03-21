@@ -21,11 +21,11 @@ Contributes quite a bit to open source projects
 
 ## Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [RFID Update: The Lowdown on HID, Dorma Kaba, and Proxmark3&#39;s Zenith](https://www.youtube.com/watch?v=cOVfF-w_ovc)
 - [Mastering HF_UNISNIFF: Your Proxmark3 Standalone Mode Guide](https://www.youtube.com/watch?v=e8FTLiXqbPo)
 - [Easy Blueshark Module Swap on Proxmark3 RDV4: A Step-by-Step Guide](https://www.youtube.com/watch?v=ofEUMZ0fa1c)
 - [Reviving Android Phone with LineageOS 21 / Termux:  Proxmark3 Connection Success!](https://www.youtube.com/watch?v=PqnO2S98qDA)
 - [Custom Coding for Super Nintendo Power Up Band: An RFID Odyssey](https://www.youtube.com/watch?v=IW4AhQDrBPo)
-- [HID Reader Manager Update: What You Need to Know](https://www.youtube.com/watch?v=xkpJ9Dz6QnI)
 <!-- YOUTUBE:END -->
 
 [website]: http://www.icedev.se
