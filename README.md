@@ -21,11 +21,11 @@ Contributes quite a bit to open source projects
 
 ## Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Reviewing a Hitag2 Cloner!](https://www.youtube.com/watch?v=k_FUQph4M7k)
 - [Check Out My New Magnetic USB Cables: Coiling Made Easy!](https://www.youtube.com/watch?v=SBooP4S5u0s)
 - [Just Landed! Unboxing My New Logic Analyzer &amp; PCBite Board 🎉](https://www.youtube.com/watch?v=BlC-cQlyMwU)
 - [WSL-2 GPU Hacking: Leveraging CUDA &amp; OpenCL for Key Recovery on Windows 11](https://www.youtube.com/watch?v=SpMFnKTdUXg)
 - [Boost Your RFID Game: Proxmark3 RDV4 Antenna Hack for Implants &amp; Keyfobs](https://www.youtube.com/watch?v=332tjzzKKnM)
-- [RFID Update: The Lowdown on HID, Dorma Kaba, and Proxmark3&#39;s Zenith](https://www.youtube.com/watch?v=cOVfF-w_ovc)
 <!-- YOUTUBE:END -->
 
 [website]: http://www.icedev.se
