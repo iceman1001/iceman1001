@@ -21,11 +21,11 @@ Contributes quite a bit to open source projects
 
 ## Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Enhancing Hitag2 Support on Proxmark3](https://www.youtube.com/watch?v=b2eDksu0Aqw)
 - [Using RFIDler for HITAG2](https://www.youtube.com/watch?v=ABLmistPX38)
 - [Reviewing a Hitag2 Cloner!](https://www.youtube.com/watch?v=k_FUQph4M7k)
 - [Check Out My New Magnetic USB Cables: Coiling Made Easy!](https://www.youtube.com/watch?v=SBooP4S5u0s)
 - [Just Landed! Unboxing My New Logic Analyzer &amp; PCBite Board 🎉](https://www.youtube.com/watch?v=BlC-cQlyMwU)
-- [WSL-2 GPU Hacking: Leveraging CUDA &amp; OpenCL for Key Recovery on Windows 11](https://www.youtube.com/watch?v=SpMFnKTdUXg)
 <!-- YOUTUBE:END -->
 
 [website]: http://www.icedev.se
