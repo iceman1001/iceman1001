@@ -21,11 +21,11 @@ Contributes quite a bit to open source projects
 
 ## Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Iceman Code session #HITAG2 Crack2](https://www.youtube.com/watch?v=Hqkg3n3a0uQ)
 - [Iceman Code session #14B](https://www.youtube.com/watch?v=3JILSZANhrg)
 - [Enhancing Hitag2 Support on Proxmark3](https://www.youtube.com/watch?v=b2eDksu0Aqw)
 - [Using RFIDler for HITAG2](https://www.youtube.com/watch?v=ABLmistPX38)
 - [Reviewing a Hitag2 Cloner!](https://www.youtube.com/watch?v=k_FUQph4M7k)
-- [Check Out My New Magnetic USB Cables: Coiling Made Easy!](https://www.youtube.com/watch?v=SBooP4S5u0s)
 <!-- YOUTUBE:END -->
 
 [website]: http://www.icedev.se
