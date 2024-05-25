@@ -21,11 +21,11 @@ Contributes quite a bit to open source projects
 
 ## Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Inside RFID Security: Hitag2 Cracking Techniques with Kev Sheldrake](https://www.youtube.com/watch?v=2Zf0w2rrgVA)
 - [Iceman Code session #HITAG2 Crack2  Part 2](https://www.youtube.com/watch?v=ghASLZWFZCo)
 - [Iceman Code session #HITAG2 Crack2](https://www.youtube.com/watch?v=Hqkg3n3a0uQ)
 - [Iceman Code session #14B](https://www.youtube.com/watch?v=3JILSZANhrg)
 - [Enhancing Hitag2 Support on Proxmark3](https://www.youtube.com/watch?v=b2eDksu0Aqw)
-- [Using RFIDler for HITAG2](https://www.youtube.com/watch?v=ABLmistPX38)
 <!-- YOUTUBE:END -->
 
 [website]: http://www.icedev.se
