@@ -21,11 +21,11 @@ Contributes quite a bit to open source projects
 
 ## Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Simulating PAXTON Access Control](https://www.youtube.com/watch?v=eWBViW3M9y8)
 - [First look at Bambu 3d printer DRM](https://www.youtube.com/watch?v=KCjcWF4CwFk)
 - [Watch 15 Years of Proxmark3 Code History Unfold](https://www.youtube.com/watch?v=CJKMpUhIv_w)
 - [Reacting to NFC payments: the art of relay and replay attacks by Salvador Mendoza](https://www.youtube.com/watch?v=nYVZFqA-P3I)
 - [Reacting to Unlocking Doors from half a continent away: Trevor and Sams talk at DEF CON 31](https://www.youtube.com/watch?v=uE1SobwlzcE)
-- [Reacting to RFID Payment System Flaws: Gerhard Klostermeier&#39;s Talk](https://www.youtube.com/watch?v=WNxCaTdtNBg)
 <!-- YOUTUBE:END -->
 
 [website]: http://www.icedev.se
