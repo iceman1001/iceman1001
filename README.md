@@ -6,6 +6,9 @@
 
 Contributes quite a bit to open source projects
 
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=iceman1001.iceman1001)
+[![Iceman Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCwukH1pDTWsv2DuT18dE1RA)](https://www.youtube.com/@iceman1001/)
 <br />
 
 ## Connect with me
@@ -20,11 +23,7 @@ Contributes quite a bit to open source projects
 [![Iceman's GitHub stats](https://github-readme-stats.vercel.app/api?username=iceman1001&show_icons=true&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tropies
-[![Iceman's Github trophies](https://github-profile-trophy.vercel.app/?username=iceman1001&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=iceman1001.iceman1001)
-[![Iceman Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCwukH1pDTWsv2DuT18dE1RA)](https://www.youtube.com/@iceman1001/)
-
+[![Iceman's Github trophies](https://github-profile-trophy.vercel.app/?username=iceman1001&theme=gruvbox&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Latest YouTube Videos
 <!-- YOUTUBE:START -->
