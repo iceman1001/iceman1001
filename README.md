@@ -27,7 +27,7 @@ Contributes quite a bit to open source projects
 
 ## Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Received a packet today.  What could it be. #pcb](https://www.youtube.com/watch?v=NYKEXuXK9nU)
+- [Received a packet today.  What could it be. #pcb](https://www.youtube.com/shorts/NYKEXuXK9nU)
 - [How to Hack Access Control with a Paxton Reader](https://www.youtube.com/watch?v=4ieQvwtrE-E)
 - [Simulating PAXTON Access Control](https://www.youtube.com/watch?v=eWBViW3M9y8)
 - [First look at Bambu 3d printer DRM](https://www.youtube.com/watch?v=KCjcWF4CwFk)
