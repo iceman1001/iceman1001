@@ -27,11 +27,11 @@ Contributes quite a bit to open source projects
 
 ## Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Another package arrived today.  What could it be?](https://www.youtube.com/watch?v=5diMgtjqU-Q)
 - [Received a packet today.  What could it be. #pcb](https://www.youtube.com/shorts/NYKEXuXK9nU)
 - [How to Hack Access Control with a Paxton Reader](https://www.youtube.com/watch?v=4ieQvwtrE-E)
 - [Simulating PAXTON Access Control](https://www.youtube.com/watch?v=eWBViW3M9y8)
 - [First look at Bambu 3d printer DRM](https://www.youtube.com/watch?v=KCjcWF4CwFk)
-- [Watch 15 Years of Proxmark3 Code History Unfold](https://www.youtube.com/watch?v=CJKMpUhIv_w)
 <!-- YOUTUBE:END -->
 
 [website]: http://www.icedev.se
