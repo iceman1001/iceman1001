@@ -27,11 +27,11 @@ Contributes quite a bit to open source projects
 
 ## Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Australia Post&#39;s DigiStamp. QR code. Blockchain.](https://www.youtube.com/shorts/dtbOButZk4w)
 - [Iceman Code session - MIFARE Ultralight-C](https://www.youtube.com/watch?v=pJ2W33s48CU)
 - [Inside the DEF CON Payment Village: Interview with Timur Yunusov](https://www.youtube.com/watch?v=-YJca2whyFo)
 - [Another package arrived today.  What could it be?](https://www.youtube.com/watch?v=5diMgtjqU-Q)
 - [Received a packet today.  What could it be. #pcb](https://www.youtube.com/shorts/NYKEXuXK9nU)
-- [How to Hack Access Control with a Paxton Reader](https://www.youtube.com/watch?v=4ieQvwtrE-E)
 <!-- YOUTUBE:END -->
 
 [website]: http://www.icedev.se
