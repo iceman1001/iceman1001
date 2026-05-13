@@ -27,11 +27,11 @@ Contributes quite a bit to open source projects
 
 ## Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Proxmark5  promotion](https://www.youtube.com/watch?v=LEhEvpyb2AI)
 - [Oppo mobile phone cracks mifare classic cards !](https://www.youtube.com/shorts/iGdfjTw_DIA)
 - [Australia Post&#39;s DigiStamp. QR code. Blockchain.](https://www.youtube.com/shorts/dtbOButZk4w)
 - [Iceman Code session - MIFARE Ultralight-C](https://www.youtube.com/watch?v=pJ2W33s48CU)
 - [Inside the DEF CON Payment Village: Interview with Timur Yunusov](https://www.youtube.com/watch?v=-YJca2whyFo)
-- [Another package arrived today.  What could it be?](https://www.youtube.com/watch?v=5diMgtjqU-Q)
 <!-- YOUTUBE:END -->
 
 [website]: http://www.icedev.se
