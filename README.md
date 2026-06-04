@@ -27,11 +27,11 @@ Contributes quite a bit to open source projects
 
 ## Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Proxmark5  Built-in frequency LED indicator #proxmark #rfid](https://www.youtube.com/shorts/RMOpcNixB-Y)
 - [Reading Hitag2 with Proxmark5 / Flipper](https://www.youtube.com/shorts/SHpFLyPXy3o)
 - [Proxmark5 integration](https://www.youtube.com/shorts/BKX1YLyc0LM)
 - [Proxmark5 at @rfidresearchgroup](https://www.youtube.com/watch?v=x0A7VtEn8GQ)
 - [You want more Flipper integration ?](https://www.youtube.com/shorts/XXRYyg94q7A)
-- [Gh0st RAT Malmons &amp;  Proxmark5 World domination tour](https://www.youtube.com/watch?v=INHiHI8W0KI)
 <!-- YOUTUBE:END -->
 
 [website]: http://www.icedev.se
