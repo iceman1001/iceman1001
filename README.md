@@ -27,11 +27,11 @@ Contributes quite a bit to open source projects
 
 ## Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Raiden Pico in action](https://www.youtube.com/shorts/ipVX193Qxbo)
 - [What’s baking ?   A Tick. #rfid #ir](https://www.youtube.com/shorts/IXyvV67IEfg)
 - [Proxmark3 vs Proxmark5 Side by Side](https://www.youtube.com/watch?v=EEoRAcRRRdI)
 - [Proxmark5  Built-in frequency LED indicator #proxmark #rfid](https://www.youtube.com/shorts/RMOpcNixB-Y)
 - [Reading Hitag2 with Proxmark5 / Flipper](https://www.youtube.com/shorts/SHpFLyPXy3o)
-- [Proxmark5 integration](https://www.youtube.com/shorts/BKX1YLyc0LM)
 <!-- YOUTUBE:END -->
 
 [website]: http://www.icedev.se
